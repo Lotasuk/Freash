@@ -1,0 +1,89 @@
+@font-face {
+  font-weight: 400;
+  font-family: "Montserrat";
+  font-style: normal;
+  src: url("fonts/Montserrat-Regular.woff") format("woff");
+}
+
+
+@font-face {
+  font-weight: 700;
+  font-family: "Montserrat";
+  font-style: normal;
+  src: url("fonts/Montserrat-Bold.woff") format("woff");
+}
+
+html,
+body {
+  padding: 0 30px;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: "Georgia", serif;
+  color: #ffffff;
+  
+}
+
+h1 {
+  font-size: 36px;
+  line-height: normal;
+  color: 00677e;
+}
+
+h2 {
+  font-size: 20px;
+  line-height: normal;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+footer {
+  margin-top: 30px;
+  
+}
+
+header {
+	width: 100%;
+	background: #2c3136;
+	height: 105px;
+	
+	 background-size: cover;
+    background-position: top center;
+}
+.title{
+ font-size: 36px;
+ padding-top: 15px;
+ text-align: center;
+}
+.menu{
+ list-style: none;
+ position: absolute;
+ top: 0px;
+ right: 100px;
+}
+
+
+html {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #151719;
+}
+.Avto {
+    width: 200px;
+    padding: 0px;
+    vertical-align: top;
+}
+
+
