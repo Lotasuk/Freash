@@ -33,6 +33,11 @@ h2 {
   font-size: 20px;
   line-height: normal;
 }
+h5 {
+	font-size: 20px;
+  line-height: normal;
+	
+}
 
 a {
   color: #ffffff;
@@ -85,7 +90,7 @@ html {
     -moz-columns: 50px 5;
     -webkit-columns: 50px 5;
     columns: 50px 5;
-    height: 200px;
+    height: 75px;
 }
 .hit {
 	
@@ -94,3 +99,8 @@ html {
 .test2 {
 display: block;
 }
+.test {
+    -moz-columns: 50px 5;
+    -webkit-columns: 50px 5;
+    columns: 50px 5;
+    height: 100px;
